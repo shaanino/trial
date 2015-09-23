@@ -6,3 +6,11 @@ c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\
 c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\obj\Debug\trialTest.csprojResolveAssemblyReference.cache
 c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\obj\Debug\trialTest.dll
 c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\obj\Debug\trialTest.pdb
+C:\trial\trial\trial\trialTest\bin\Debug\trialTest.dll
+C:\trial\trial\trial\trialTest\bin\Debug\trialTest.pdb
+C:\trial\trial\trial\trialTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\trial\trial\trial\trialTest\bin\Debug\trial.dll
+C:\trial\trial\trial\trialTest\bin\Debug\trial.pdb
+C:\trial\trial\trial\trialTest\obj\Debug\trialTest.csprojResolveAssemblyReference.cache
+C:\trial\trial\trial\trialTest\obj\Debug\trialTest.dll
+C:\trial\trial\trial\trialTest\obj\Debug\trialTest.pdb

@@ -3,3 +3,8 @@ c:\users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trial\bin\
 c:\users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trial\obj\Debug\trial.csprojResolveAssemblyReference.cache
 c:\users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trial\obj\Debug\trial.dll
 c:\users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trial\obj\Debug\trial.pdb
+C:\trial\trial\trial\trial\bin\Debug\trial.dll
+C:\trial\trial\trial\trial\bin\Debug\trial.pdb
+C:\trial\trial\trial\trial\obj\Debug\trial.csprojResolveAssemblyReference.cache
+C:\trial\trial\trial\trial\obj\Debug\trial.dll
+C:\trial\trial\trial\trial\obj\Debug\trial.pdb
