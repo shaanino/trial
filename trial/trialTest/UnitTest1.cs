@@ -13,7 +13,7 @@ namespace trialTest
 
             test t = new test();
 
-            int result = t.Add(6,4);
+            int result = t.Add(6,);
 
             Assert.AreEqual<int>(11, result);
 
