@@ -1,0 +1,8 @@
+c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\bin\Debug\trialTest.dll
+c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\bin\Debug\trialTest.pdb
+c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\bin\Debug\trial.dll
+c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\bin\Debug\trial.pdb
+c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\obj\Debug\trialTest.csprojResolveAssemblyReference.cache
+c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\obj\Debug\trialTest.dll
+c:\Users\ouvashisht.banka\documents\visual studio 2015\Projects\trial\trialTest\obj\Debug\trialTest.pdb
